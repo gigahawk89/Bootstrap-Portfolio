@@ -1,0 +1,163 @@
+.header {
+    font-size: 28px;
+    display: block;
+    height: 40px;
+    width: 100%;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #cccccc;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-bottom: 30px;
+    padding-top: 5px;
+   
+    }
+
+    h1 {
+        position: absolute;
+        top: 0px;
+        height: 60px;
+        left: 195px;
+        border-style: solid;
+        border-color: #cccccc;
+        background-color: #4aaaa5;
+
+    }
+
+    
+        
+
+    a {
+        color: #777777;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 20px;
+    }
+
+.background {
+    background:
+    url(https://www.toptal.com/designers/subtlepatterns/patterns/what-the-hex.png) beige;
+}
+
+.main { 
+    width: 960px;
+    height: 500px;
+    background-color: #ffffff;
+    margin: 20px;
+    position: absolute;
+    top: 80px;
+    left: 175px;
+    align-content: center;
+    border-style: solid;
+    border-color: #dddddd;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.thumbs {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+
+.about {
+    flex: 1;
+    font-size: 30px;
+    border-bottom-style: dotted;
+    border-color: #dddddd;
+
+
+}
+
+.port {
+    flex: 1;
+    font-size: 28px;
+    border-bottom-style: dotted;
+    border-color: #dddddd;
+}
+
+.textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+
+.one {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+}
+
+.two {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+}
+
+.thumbs2 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.three {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+}
+
+.text {
+    flex: 1;
+
+}
+
+p {
+    display: block;
+    
+}
+
+.teal {
+    color: teal;
+    
+}
+
+.footer {
+    background-color: #666666;
+    display: block;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px; 
+    left: 0px;
+    text-align: center;
+    border-top-style: solid;
+    border-color: teal;
+    border-width: 10px;
+
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: 980px;
+    
+    
+}
+
+.nav-margins {
+    width: 960px;
+    margin: 0auto;
+
+}
